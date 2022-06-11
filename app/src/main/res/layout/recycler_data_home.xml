@@ -1,0 +1,99 @@
+<androidx.cardview.widget.CardView
+
+    android:id="@+id/cardClickHolder"
+    android:layout_margin="20dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/border_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:layout_marginHorizontal="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="20dp"
+    android:scrollbars="vertical"
+    app:cardCornerRadius="8dp">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <ImageView
+
+            android:scaleType="centerCrop"
+            android:id="@+id/metaImg"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/logo_meta_kart"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </ImageView>
+
+        <TextView
+            android:textAlignment="center"
+            android:id="@+id/firstname"
+            android:text="hello"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#000000"/>
+
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textAlignment="center"
+                android:text="Price: "
+                android:textColor="@color/black"
+                android:textSize="18dp"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+        <TextView
+            android:textAlignment="center"
+            android:id="@+id/proprice"
+            android:text="Price"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+            <ImageView
+                android:layout_marginTop="8dp"
+                android:src="@drawable/eher_logo"
+                android:layout_width="20dp"
+                android:layout_height="20dp">
+
+            </ImageView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

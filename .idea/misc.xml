@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable-v24/ic_baseline_done_all_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable-v24/ic_baseline_remove_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable-v24/layout_new.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable/border_layout.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable/custom_button_layout.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable/custom_edit_text.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable/ic_left_arrow.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable/ic_right_arrow.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable/layout_color.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/drawable/style_for_edittext.xml" value="0.26614583333333336" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_all_cart.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_all_details.xml" value="0.2" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_check_out.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_display_data.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/activity_test.xml" value="0.264" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/fragment_register.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/layout_item.xml" value="0.264" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/order_dialog.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/recycler_data.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/layout/recycler_data_home.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/menu/option_menu.xml" value="0.25" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14322916666666666" />
+        <entry key="..\:/CONESTOGA LEVEL 3/ANDROID/FINAL_PROJECT/GROUP_PROJECT/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14322916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

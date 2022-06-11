@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:orientation="vertical"
+    android:background="@drawable/layout_new"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.AllCartActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:background="@drawable/layout_color"
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageView
+            android:layout_margin="8dp"
+            android:layout_gravity="center"
+            android:id="@+id/toolbar_app_icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:src="@drawable/logo_meta_kart"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+
+            android:layout_gravity="center"
+            android:id="@+id/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:fontFamily="sans-serif-black"
+            android:text="MetaKart"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swip"
+            android:layout_marginTop="60dp"
+            android:layout_width="match_parent"
+            android:layout_height="600dp">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv"
+
+                android:layout_width="match_parent"
+                android:layout_height="590dp" />
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+        <Button
+
+            android:layout_alignParentBottom="true"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:background="@drawable/layout_color"
+            android:text="Go to Home"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/goHomeBtn"
+
+            android:layout_marginLeft="40dp"
+            android:layout_width="330dp"
+            android:layout_marginBottom="20dp"
+
+            android:layout_height="wrap_content">
+
+        </Button>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
