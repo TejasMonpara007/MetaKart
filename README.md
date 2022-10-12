@@ -1,6 +1,6 @@
 # MetaKart
 <i> PROG8350 Application Development for Android </i>
-#### The android application developed using Java and it's a basic eCommerce application with realtime database to handle products in a dynamic way. The application allows users to display items and to add to cart for purchase. The project was developed using Agile Methodology and completely adheres to GitFlow to avoid merge conflicts among team members working on the same feature and to maintain clean and tidy code.
+#### Android application developed using Java and it's a basic eCommerce application with realtime database to handle products in a dynamic way. The application allows users to display items and to add to cart for purchase. The project was developed using Agile Methodology and completely adheres to GitFlow to avoid merge conflicts among team members working on the same feature and to maintain clean and tidy code.
 
 # Splash, Signup and Login
 
